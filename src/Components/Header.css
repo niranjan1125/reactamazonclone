@@ -1,0 +1,28 @@
+.header{
+    height: 60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    
+}
+.cart_logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 300px;
+    
+    
+}
+.search_bar{
+    width: 600px;
+    height: 30px;
+    margin-left: 100px;
+}
+.amazon_logo{
+    height: 35px;
+    width: 126px;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+
+
